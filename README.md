@@ -1,5 +1,3 @@
-# nlw-expert
-Layout de Quiz desenvolvido durante a 14° NLW na Rocketseat. [HTML] [CSS] [Javascript] ++
 <h1 align="center"> NLW Expert </h1>
 
 <p align="center">
