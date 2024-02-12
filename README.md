@@ -15,7 +15,7 @@ Layout promovido pela Rocketseat durante o NLW Expert.
 <br>
 
 <p align="center">
-  <img alt="Projeto Quiz" src="https://imgur.com/a/3ZHILAH" width="100%">
+  <img alt="Projeto Quiz" src="[https://imgur.com/a/3ZHILAH](https://imgur.com/mzYSXKG)" width="100%">
 </p>
 
 ## 🚀 Tecnologias
