@@ -1,5 +1,5 @@
 # nlw-expert
-Quiz sobre fundamentos do JS desenvolvido durante a 14° NLW na Rocketseat. [HTML] [CSS] [Javascript] ++
+Layout de Quiz desenvolvido durante a 14° NLW na Rocketseat. [HTML] [CSS] [Javascript] ++
 <h1 align="center"> NLW Expert </h1>
 
 <p align="center">
@@ -10,10 +10,6 @@ Layout promovido pela Rocketseat durante o NLW Expert.
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-<p align="center">
-  <img alt="License" src="https://imgur.com/mzYSXKG">
 </p>
 
 <br>
