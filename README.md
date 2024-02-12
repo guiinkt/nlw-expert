@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Quiz sobre fundamentos do JS desenvolvido durante a 14° NLW na Rocketseat.
+Layout de quiz desenvolvido durante a 14° NLW na Rocketseat.
 
 ## 🔖 Layout
 
