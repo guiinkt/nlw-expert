@@ -14,6 +14,10 @@ Layout promovido pela Rocketseat durante o NLW Expert.
 
 <br>
 
+<p align="center">
+  <img alt="Forms" src="/images/layout-preview.png" width="100%">
+</p>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
